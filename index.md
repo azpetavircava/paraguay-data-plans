@@ -50,3 +50,10 @@ layout: default
 ## 五、 避坑指南：别让小事毁了体验
 
 1.  **护照原件！原件
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Paraguay SIM 卡购买与激活指南](https://faciylike.github.io/paraguay-sim-guides)
